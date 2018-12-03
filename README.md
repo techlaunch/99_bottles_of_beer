@@ -1,7 +1,7 @@
 # 99 Bottles of Beer
 On this exercise,  your will recite the lyrics to the beloved classic, field-trip favorite song: 99 Bottles of Beer on the Wall.
 
-Create an app that using loops and conditional statents print on screen the verses as they shown below. Each verse should be on a different line and note that not all verses are identical.
+Create an app that using loops and conditional statements, print on screen the verses as they shown below. Each verse should be on a different line, with enough space bertween lines to read the text easily. Note that not all verses are identical.
 
 ```
 99 bottles of beer on the wall, 99 bottles of beer. Take one down and pass it around, 98 bottles of beer on the wall.
