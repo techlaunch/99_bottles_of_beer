@@ -204,3 +204,9 @@ Create an app that using loops and conditional statements, print on screen the v
 
 No more bottles of beer on the wall, no more bottles of beer. Go to the store and buy some more, 99 bottles of beer on the wall.
 ```
+
+## Difficulty one
+Make the script so you can pass a number from 1 to 99 via GET and it just count bottles starting with number. If no value is passed, it should start by 99 bottles.
+
+## Difficulty two
+Make the list “zebra effect”, meaning the text color for even and odd lines will be different. This technique is very used to improve reading large lists with similar values.
